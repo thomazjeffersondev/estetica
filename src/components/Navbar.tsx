@@ -27,7 +27,7 @@ const Navbar = () => {
             <img 
               src="/img/Logo_Clínica_de_Estética_Delicado-removebg-preview.png" 
               alt="Bloom Estética Logo" 
-              className="h-20"
+              className="h-30"
             />
           </a>
           
